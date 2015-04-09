@@ -15,7 +15,7 @@ The function returns a labelled matrix, with the average index as the first colu
 mean over that range of data.
 }
 \usage{
-meanEveryN(x, n = 2, lag = round(n/2))
+meanEveryN(x, n = 2, lag = round(n/2),showsamples=FALSE)
 }
 \arguments{
   \item{x}{
@@ -29,9 +29,12 @@ point).  At minimum this must be >1.
   \item{lag}{
 default value is half the sample interval, n, which will ensure the calculation is centred over the new sample interval.  Not tested for any other situation.  Leave blank to have function operate as intended.
 }
+  \item{showsamples}{
+default value is false.  Determines whether to output a matrix where the first column contains the mean sample #.  If true, the mean sample number is included with the mean calculations of the variable of interest, x.  If false, then only a vector containing the mean values of x will be provided.
+}
 }
 \details{
-The general purpose of this function is to provide a moving average of a data stream typically sampled at evenly recorded time intervals common computerised data acquisition systems.  Akin to a moving average function, except that it also resamples the data.
+The general purpose of this function is to assist with time based averaging a data stream typically sampled at evenly recorded time intervals common to computerised data acquisition systems.  Akin to a moving average function, except that it also resamples the data.
 }
 \value{
 A matrix object returned

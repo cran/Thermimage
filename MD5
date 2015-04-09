@@ -1,9 +1,9 @@
-14ca23407d9c6a8da25ed97cafe7a8ce *DESCRIPTION
+283ecb36775cfe625d63ad0d70f02a08 *DESCRIPTION
 8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
 d41d8cd98f00b204e9800998ecf8427e *R/Thermimage.R
 f80d147535ba2dd5c45c6d324376163d *R/flip.matrix.R
-01aed881355e936344ad7fce9669aeb2 *R/locate.fid.R
-237771c66c8e87ae2dd224f5f7c6c367 *R/meanEveryN.R
+37107adc0a5fa2df4c920d04600ac32b *R/locate.fid.R
+8d729596b89a1da9ac61bdf377dcfcce *R/meanEveryN.R
 7ec6d465fd40aec3238d7c2ea113221d *R/mirror.matrix.R
 fa14f1abc2a5760a71b8402130cea2bd *R/palette.choose.R
 29f75b45d2f234ff132f5c15ebcfad89 *R/raw2temp.R
@@ -25,8 +25,8 @@ ee772af9ff1933453ba3d5031c5d3db6 *man/grey120pal.Rd
 867ac0bb27b42df5cfa0d6b5f372668d *man/greyredpal.Rd
 3b63f18cac7f58317b31865e427eee7e *man/hotironpal.Rd
 41639515c272926c875edc3e0854d440 *man/ironbowpal.Rd
-223e57f60af79b3ae5b2f6a97efcee4f *man/locate.fid.Rd
-05534354492722e4b91bd1a74891af56 *man/meanEveryN.Rd
+2bcfeba16a6ac65000ea7e78f73ee7a3 *man/locate.fid.Rd
+f9aed7b2b10e2fd45a96ceb1dfe044d3 *man/meanEveryN.Rd
 8f3bf90e614de501ef42f0fe46710d2f *man/medicalpal.Rd
 f24312c04d5e0a4a4a8a5197eb23ca65 *man/midgreenpal.Rd
 219a3680450304170cc33e99eecea882 *man/midgreypal.Rd
@@ -39,7 +39,7 @@ cdc407b983cd9b06ff33060e1a0edb4c *man/rainbowpal.Rd
 151a8589f88951c027148c38121b417b *man/rotate180.matrix.Rd
 a45db5fc28ec24b94a7c66c018424b35 *man/rotate270.matrix.Rd
 86286fb01421f51125b03242dd8e9e33 *man/rotate90.matrix.Rd
-c1915ee8ac73f9ec19952909b14714b5 *man/samp.image.Rd
+1105aaf081470abfbdeb561ac9604f27 *man/samp.image.Rd
 2ff3cecfdac4c0a0277dadc1c3b6e186 *man/slopeEveryN.Rd
 5ed7342b7bdfce5cf3144c05f3d9d8a4 *man/slopebypoint.Rd
 c648e257ff59b20ed75821339425f91a *man/temp2raw.Rd
