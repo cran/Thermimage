@@ -1,4 +1,4 @@
-633bdafd82f052d5cf15671152aa13b2 *DESCRIPTION
+44cec20154272f2a2d2d4dd6c1fdbc42 *DESCRIPTION
 a43857b86de6adc9642f2356bce40950 *NAMESPACE
 36bb034d9d05cf35165bd97e8d9f61f6 *R/Grashof.R
 405239b275d6e890a6a8596bb1833f70 *R/Ld.R
@@ -21,6 +21,7 @@ e1026ef461d1e3a4b0d553d5b369da17 *R/areacone.R
 a4514b3f2d2bafb29af6d4e1795c3ae6 *R/areacylinder.R
 ea3ff1b3895a87d14807b927413e71c7 *R/areasphere.R
 f80d147535ba2dd5c45c6d324376163d *R/flip.matrix.R
+7dd94fad84d18fa26d53a55bd97c7a0c *R/flirsettings.R
 c185d4363044e0e4f2d373d69788b364 *R/forcedparameters.R
 65fa367e2bdc3b50d099f795a787e68c *R/freeparameters.R
 d7d5b341cc67739bdbd475f2aca127ab *R/hconv.R
@@ -33,6 +34,7 @@ fa14f1abc2a5760a71b8402130cea2bd *R/palette.choose.R
 eef037dbd2fbeadf425f38bd284623d7 *R/qconv.R
 ea6f510413860cd6bdc70d3024643d4e *R/qrad.R
 6a6a9e002473160a4bd860d19c14983d *R/raw2temp.R
+e714b3d9518de50a571d5b26a5971295 *R/readflirJPG.R
 e6d28928f60df794d605ffdcb28ba404 *R/rotate180.matrix.R
 05686b631591b8d765e4225a1581c128 *R/rotate270.matrix.R
 a736b03266315a2e33e5576472d8ec95 *R/rotate90.matrix.R
@@ -42,6 +44,7 @@ d0d1b8fff7ae382ca87581a1ddc3a4bd *R/sysdata.rda
 3cc63e6adae3dfc3571da641de60fb8e *R/temp2raw.R
 4a1c866775862a602bc835fafecee4be *README.md
 22d47bc3b3707d85a7dd7462ea8450b7 *data/samp.image.rda
+44151b6294d270eb42e46c02c04436b4 *inst/extdata/IR_2412.jpg
 55c100d0de02fb8093d8bb96e4c0ced2 *man/Grashof.Rd
 d3e4d86cb629b0f346dd1f1e3cf5d86e *man/Ld.Rd
 e92e9c60b0eb0b4328d325b87a02815f *man/Lu.Rd
@@ -64,6 +67,7 @@ a18c9e9000b1a130d4692254f6d29508 *man/areacylinder.Rd
 fdc2376af4c82f54c699d80fecfa7abf *man/areasphere.Rd
 bd7bd07baa94098d465621df613e3e1a *man/flip.matrix.Rd
 867f673d5502fffb88cacb6e5b023c3e *man/flirpal.Rd
+146369c0d65a555033f1b7013cb8b619 *man/flirsettings.Rd
 8596920ec0c0b6b266d4fffbea633845 *man/forcedparameters.Rd
 de648b5eb6c2ad2696947cc2f5cf7e65 *man/freeparameters.Rd
 1fdff5ad42dc10af3facd9e7ed6e1e05 *man/glowbowpal.Rd
@@ -87,7 +91,8 @@ f550acce00baebdc7e63f3016d1bcf7c *man/mikroscanpal.Rd
 2ac238ec3e058c66da3761cd56cc5f49 *man/qconv.Rd
 c65c44758ee0a196ffaf8362c8e75cb0 *man/qrad.Rd
 cdc407b983cd9b06ff33060e1a0edb4c *man/rainbowpal.Rd
-a2c1420736b3c8b2840ebd2e83da26d8 *man/raw2temp.Rd
+8da559bbb0fa3003365de70be85f608b *man/raw2temp.Rd
+194f145058e9132690c84adfbcd05fe8 *man/readflirJPG.Rd
 60d7ab27428d9410fb4ae4ed3ed3028c *man/rotate180.matrix.Rd
 1cd466f4034ad29e51adc2595c3408d3 *man/rotate270.matrix.Rd
 f543f7a3263e482fc6ca86c395e3c423 *man/rotate90.matrix.Rd
