@@ -1,12 +1,12 @@
-44cec20154272f2a2d2d4dd6c1fdbc42 *DESCRIPTION
-a43857b86de6adc9642f2356bce40950 *NAMESPACE
+b10664314d9eea0d52bae81119ef07cd *DESCRIPTION
+6eb306caf576a2f6b956c168244e51f4 *NAMESPACE
 36bb034d9d05cf35165bd97e8d9f61f6 *R/Grashof.R
 405239b275d6e890a6a8596bb1833f70 *R/Ld.R
 03c630c44fbb0168cfc5c00c7b91323d *R/Lu.R
 56f52cdf0821e4f7456ee4e0367de8b3 *R/Lw.R
 49d79f5376c8cc1f62a5fdfc641e3eba *R/Nusseltforced.R
 a81d902ed93117f334dce02bc75161c8 *R/Nusseltfree.R
-0ee3d2082c565779defa3809325cab75 *R/Prandtl.R
+2db1ddce6c9cb57bf082a5a1968636f3 *R/Prandtl.R
 f569a9182298f9ea5aa97dec21f7a22e *R/Reynolds.R
 bfb62a01c80fa121577d01af967ba0a1 *R/StephBoltz.R
 09334c9182c631f5758feca4caf85257 *R/Te.R
@@ -51,7 +51,7 @@ e92e9c60b0eb0b4328d325b87a02815f *man/Lu.Rd
 09d0c726febb1c666cf1b93b7bda2e4f *man/Lw.Rd
 1f2438c869cd1fef65efb0843dcd4f79 *man/Nusseltforced.Rd
 3111243c571cdb376483edb46e8f313a *man/Nusseltfree.Rd
-ca81b25dafdbe884eb4fba54c2d79f72 *man/Prandtl.Rd
+e81bffdcb404413621e3b484bd42e278 *man/Prandtl.Rd
 1f66524db36dfda1d5bad15d240f8e00 *man/Reynolds.Rd
 ec36bfde1b7c4fbd0e299315e5712504 *man/StephBoltz.Rd
 b3cfcf114458b4dfe2a6a631080db521 *man/Te.Rd
