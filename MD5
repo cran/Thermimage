@@ -1,4 +1,4 @@
-b10664314d9eea0d52bae81119ef07cd *DESCRIPTION
+aea27206328969e6f1aa64e5028e80cd *DESCRIPTION
 6eb306caf576a2f6b956c168244e51f4 *NAMESPACE
 36bb034d9d05cf35165bd97e8d9f61f6 *R/Grashof.R
 405239b275d6e890a6a8596bb1833f70 *R/Ld.R
@@ -23,8 +23,8 @@ ea3ff1b3895a87d14807b927413e71c7 *R/areasphere.R
 f80d147535ba2dd5c45c6d324376163d *R/flip.matrix.R
 7dd94fad84d18fa26d53a55bd97c7a0c *R/flirsettings.R
 c185d4363044e0e4f2d373d69788b364 *R/forcedparameters.R
-65fa367e2bdc3b50d099f795a787e68c *R/freeparameters.R
-d7d5b341cc67739bdbd475f2aca127ab *R/hconv.R
+4fda70ca85c135e8ca53c1c35dbfc396 *R/freeparameters.R
+77839dc6d6d99e7a5ff7aacccd3d4b41 *R/hconv.R
 1b0360d0cfddea816e1856884393a4a2 *R/locate.fid.R
 8d729596b89a1da9ac61bdf377dcfcce *R/meanEveryN.R
 7ec6d465fd40aec3238d7c2ea113221d *R/mirror.matrix.R
@@ -34,7 +34,7 @@ fa14f1abc2a5760a71b8402130cea2bd *R/palette.choose.R
 eef037dbd2fbeadf425f38bd284623d7 *R/qconv.R
 ea6f510413860cd6bdc70d3024643d4e *R/qrad.R
 6a6a9e002473160a4bd860d19c14983d *R/raw2temp.R
-e714b3d9518de50a571d5b26a5971295 *R/readflirJPG.R
+15280d5b42042f506fc30e382af06ac4 *R/readflirJPG.R
 e6d28928f60df794d605ffdcb28ba404 *R/rotate180.matrix.R
 05686b631591b8d765e4225a1581c128 *R/rotate270.matrix.R
 a736b03266315a2e33e5576472d8ec95 *R/rotate90.matrix.R
@@ -92,7 +92,7 @@ f550acce00baebdc7e63f3016d1bcf7c *man/mikroscanpal.Rd
 c65c44758ee0a196ffaf8362c8e75cb0 *man/qrad.Rd
 cdc407b983cd9b06ff33060e1a0edb4c *man/rainbowpal.Rd
 8da559bbb0fa3003365de70be85f608b *man/raw2temp.Rd
-194f145058e9132690c84adfbcd05fe8 *man/readflirJPG.Rd
+d1ec5f2811e4620fccff0030fc7b783c *man/readflirJPG.Rd
 60d7ab27428d9410fb4ae4ed3ed3028c *man/rotate180.matrix.Rd
 1cd466f4034ad29e51adc2595c3408d3 *man/rotate270.matrix.Rd
 f543f7a3263e482fc6ca86c395e3c423 *man/rotate90.matrix.Rd
