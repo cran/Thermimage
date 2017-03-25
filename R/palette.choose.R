@@ -1,3 +1,5 @@
+#' @export
+#' 
 palette.choose<-
   function(colscheme)
   {
