@@ -1,4 +1,4 @@
-dcfc86c2b8e92679ce6ff2ce02ea45c4 *DESCRIPTION
+a597758c11d3567b947849e66bd65358 *DESCRIPTION
 eaf14ddd2cae61be5d77cfc11e86f69c *NAMESPACE
 5525bed8eb48c83d1ae6f7f7684a2ec3 *R/Grashof.R
 d21311b1de6474871f7530f8a7d42e05 *R/Ld.R
@@ -26,7 +26,7 @@ f97fa377452ec5e01891735de365330f *R/areacylinder.R
 26f04ccc50b159ecb9da61475171cf61 *R/diffFrame.R
 b46a085b1ba036f7778f44111e7c9c04 *R/ffmpegcall.R
 0f7e537a42d44f010b831755acfd0644 *R/flip.matrix.R
-168f47e5d9cc2eb8ef79f9976ab86ab6 *R/flirsettings.R
+2bf2f3a5033893539d76f35d2d9a9093 *R/flirsettings.R
 e1b6c6afcf92480158d5126db24e0519 *R/forcedparameters.R
 cb28a4a94522c5f5a026e0d5390289f2 *R/frameLocates.R
 4be9dc3bb91ab1ed4511896d7e9db09a *R/freeparameters.R
@@ -44,7 +44,7 @@ adb22d8b8f99107e19fed437320bb026 *R/qcond.R
 c1b4f9b999bfcde015be43281e55c7e4 *R/qconv.R
 2e9b89a5902ef816c9fa1942d6b79d97 *R/qrad.R
 c7b5a4bc446ac230268f68a0e23292ca *R/raw2temp.R
-1941c277ae60acfe81c3aa348b182e94 *R/readflirJPG.R
+3f97c42fc3d9490bf7e376b9a8b7d12e *R/readflirJPG.R
 44b55e54b0f5b1b940d4a51e58007bda *R/rotate180.matrix.R
 bfc8eb04c00ffa191e1d66cc27426aaa *R/rotate270.matrix.R
 676831e75cd69e544a9e1afad7347df3 *R/rotate90.matrix.R
@@ -138,7 +138,7 @@ c7339ae7eae99d2863498c3c89ff794c *man/qrad.Rd
 f18a24948ef39b5d76e1e65d6544edba *man/rainbow1234pal.Rd
 cdc407b983cd9b06ff33060e1a0edb4c *man/rainbowpal.Rd
 bb69745957b11d0f4b87ce07245b56f6 *man/raw2temp.Rd
-b89b4dea1174950b4f2bb03031f282fb *man/readflirJPG.Rd
+2cdf28209e7e40abb0c2b00c33cf22c3 *man/readflirJPG.Rd
 a7dcc7de76347c4bfde7eaf67ecde182 *man/rotate180.matrix.Rd
 65b83fa00c2d7f6a53cc79e448c6913f *man/rotate270.matrix.Rd
 8f2a125d23d900ead5fc3f95c466e8c8 *man/rotate90.matrix.Rd
