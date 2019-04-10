@@ -1,8 +1,8 @@
 Package: Thermimage
 Type: Package
 Title: Thermal Image Analysis
-Version: 3.1.2
-Date: 2018-11-05
+Version: 3.1.4
+Date: 2019-04-09
 Author: Glenn J. Tattersall
 Description: A collection of functions and routines for inputting thermal
     image video files, plotting and converting binary raw data into estimates of
@@ -24,8 +24,8 @@ URL: https://cran.r-project.org/package=Thermimage,
         https://github.com/gtatters/Thermimage
 BugReports: http://github.com/gtatters/Thermimage/issues
 Encoding: UTF-8
-RoxygenNote: 6.1.0
+RoxygenNote: 6.1.1
 NeedsCompilation: no
-Packaged: 2018-11-05 23:00:39 UTC; GlennTattersall
+Packaged: 2019-04-10 10:58:27 UTC; GlennTattersall
 Repository: CRAN
-Date/Publication: 2018-11-05 23:20:03 UTC
+Date/Publication: 2019-04-10 12:35:18 UTC

@@ -1,4 +1,4 @@
-a597758c11d3567b947849e66bd65358 *DESCRIPTION
+a7538af2fe600654df51eaee39efe8b9 *DESCRIPTION
 eaf14ddd2cae61be5d77cfc11e86f69c *NAMESPACE
 5525bed8eb48c83d1ae6f7f7684a2ec3 *R/Grashof.R
 d21311b1de6474871f7530f8a7d42e05 *R/Ld.R
@@ -28,7 +28,7 @@ b46a085b1ba036f7778f44111e7c9c04 *R/ffmpegcall.R
 0f7e537a42d44f010b831755acfd0644 *R/flip.matrix.R
 2bf2f3a5033893539d76f35d2d9a9093 *R/flirsettings.R
 e1b6c6afcf92480158d5126db24e0519 *R/forcedparameters.R
-cb28a4a94522c5f5a026e0d5390289f2 *R/frameLocates.R
+4855aace613dde2403e75cd4f364a551 *R/frameLocates.R
 4be9dc3bb91ab1ed4511896d7e9db09a *R/freeparameters.R
 3756df56272e18798d0a41480e1028ea *R/getFrames.R
 ce3a3ed08b907e346dd4926bc0f64cef *R/getTimes.R
@@ -92,7 +92,7 @@ ec36bfde1b7c4fbd0e299315e5712504 *man/StephBoltz.Rd
 b7d51a4de02ed4378e6533254d55939e *man/Te.Rd
 8ff0d0f3235fffd20e186c88259f4dd4 *man/Teq.Rd
 97a2b5bbd9312121681aa7bf1dd7c2ca *man/Tground.Rd
-bf4f959dd30e852be302d6cc32411c1f *man/Thermimage-package.Rd
+d586f76b82f488a08728df1b86e567bf *man/Thermimage-package.Rd
 33c26d701f421df8e9a6de58e19d7fec *man/airdensity.Rd
 504222cd1adac977e307143e60c694e5 *man/airspecificheat.Rd
 76653ff0d153a3327994bde080cabd45 *man/airtconductivity.Rd
@@ -128,7 +128,7 @@ f24312c04d5e0a4a4a8a5197eb23ca65 *man/midgreenpal.Rd
 6ee5c0b799ed54b9ff20cb120c565b19 *man/mikronprismpal.Rd
 f550acce00baebdc7e63f3016d1bcf7c *man/mikroscanpal.Rd
 9a5c80db3c6cdf4e26efd238fd8fecd1 *man/mirror.matrix.Rd
-c7d5a3d663fd3dd7d56ff32f521cd6a5 *man/nameleadzero.Rd
+45e805cb3bc04334a51652af6361b6f2 *man/nameleadzero.Rd
 373de7052ef2789a7b22532d372880cb *man/palette.choose.Rd
 beb2344129edbb78c17f77045fd1b159 *man/plotTherm.Rd
 262bcb929f2f11615d2e93b33d675f0a *man/qabs.Rd
@@ -147,6 +147,6 @@ fd2a5df0a79b784eb1e55a67a56778ae *man/slopeEveryN.Rd
 010f03697f4fa152acf0d55a21fd196e *man/slopebypoint.Rd
 cdf975c275503bb0c9d67f8acc440af3 *man/temp2raw.Rd
 dfdba1457a2bf56a46c7f868c1b037d5 *man/thermsum.Rd
-5100256cfa9496fb0cbd476ea7485cef *man/thermsumcent.Rd
+748a95c6fe520b81a214a4c3bacc4aa4 *man/thermsumcent.Rd
 5fed635602944f86f082ad8ac909e37d *man/writeFlirBin.Rd
 ca8c323b8932ecb68402af25b1b6b142 *man/yellowpal.Rd
