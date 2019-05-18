@@ -1,4 +1,4 @@
-a7538af2fe600654df51eaee39efe8b9 *DESCRIPTION
+0f6ddc9ef96635cdc3b1c948d01969ea *DESCRIPTION
 eaf14ddd2cae61be5d77cfc11e86f69c *NAMESPACE
 5525bed8eb48c83d1ae6f7f7684a2ec3 *R/Grashof.R
 d21311b1de6474871f7530f8a7d42e05 *R/Ld.R
@@ -28,12 +28,12 @@ b46a085b1ba036f7778f44111e7c9c04 *R/ffmpegcall.R
 0f7e537a42d44f010b831755acfd0644 *R/flip.matrix.R
 2bf2f3a5033893539d76f35d2d9a9093 *R/flirsettings.R
 e1b6c6afcf92480158d5126db24e0519 *R/forcedparameters.R
-4855aace613dde2403e75cd4f364a551 *R/frameLocates.R
+9e663ac4baa17ff912b2b45fd279ce19 *R/frameLocates.R
 4be9dc3bb91ab1ed4511896d7e9db09a *R/freeparameters.R
-3756df56272e18798d0a41480e1028ea *R/getFrames.R
-ce3a3ed08b907e346dd4926bc0f64cef *R/getTimes.R
+882efc63082704edf41dcff2dcf84d40 *R/getFrames.R
+17c3a64ed81b57049185c534bc570135 *R/getTimes.R
 ce3cd3ca9171b26c55c59020b5be5963 *R/hconv.R
-7c9eb139132087d3e1b3be9377a9ed7a *R/locate.fid.R
+3843e5615c8b4459770437880db4712d *R/locate.fid.R
 cea506851122e0b170734d222053e148 *R/meanEveryN.R
 dcfe6c9735ae04014ef282c3a4783df3 *R/mirror.matrix.R
 223f4f69b918ce375dd6dbf6fb73f79a *R/nameleadzero.R
@@ -44,7 +44,7 @@ adb22d8b8f99107e19fed437320bb026 *R/qcond.R
 c1b4f9b999bfcde015be43281e55c7e4 *R/qconv.R
 2e9b89a5902ef816c9fa1942d6b79d97 *R/qrad.R
 c7b5a4bc446ac230268f68a0e23292ca *R/raw2temp.R
-3f97c42fc3d9490bf7e376b9a8b7d12e *R/readflirJPG.R
+db1652c142b282780bae7aad098ab378 *R/readflirJPG.R
 44b55e54b0f5b1b940d4a51e58007bda *R/rotate180.matrix.R
 bfc8eb04c00ffa191e1d66cc27426aaa *R/rotate270.matrix.R
 676831e75cd69e544a9e1afad7347df3 *R/rotate90.matrix.R
@@ -109,10 +109,10 @@ bd7bd07baa94098d465621df613e3e1a *man/flip.matrix.Rd
 867f673d5502fffb88cacb6e5b023c3e *man/flirpal.Rd
 2ed06414cf15eb69487c1d9a3e88936c *man/flirsettings.Rd
 8596920ec0c0b6b266d4fffbea633845 *man/forcedparameters.Rd
-1fdd8df35d3f813857032dbcdb9c43d2 *man/frameLocates.Rd
+9e4af5db709c85174d1a46a2440deea4 *man/frameLocates.Rd
 de648b5eb6c2ad2696947cc2f5cf7e65 *man/freeparameters.Rd
-15069a4e5e2b8758431965dcbc14a0ea *man/getFrames.Rd
-fab3824e93d02dbd345af33bfc74ccba *man/getTimes.Rd
+67f1a19da4f06a6a6eade9cb024f7762 *man/getFrames.Rd
+ca5aa30b37f3c92365b058c5e9d32c88 *man/getTimes.Rd
 1fdff5ad42dc10af3facd9e7ed6e1e05 *man/glowbowpal.Rd
 e1ed3949d8ee088d59571900802c91ad *man/grey10pal.Rd
 ee772af9ff1933453ba3d5031c5d3db6 *man/grey120pal.Rd
@@ -120,7 +120,7 @@ ee772af9ff1933453ba3d5031c5d3db6 *man/grey120pal.Rd
 8a7103e3cbaf4bab2beed1ad8b2b7f04 *man/hconv.Rd
 3b63f18cac7f58317b31865e427eee7e *man/hotironpal.Rd
 41639515c272926c875edc3e0854d440 *man/ironbowpal.Rd
-ed815ae3ed4632b93fb0b5be75719091 *man/locate.fid.Rd
+8e6424beb2ccb6121cda72850433e1ec *man/locate.fid.Rd
 db487675a0cbe9384c25b499d70a8b2d *man/meanEveryN.Rd
 8f3bf90e614de501ef42f0fe46710d2f *man/medicalpal.Rd
 f24312c04d5e0a4a4a8a5197eb23ca65 *man/midgreenpal.Rd
