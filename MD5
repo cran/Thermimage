@@ -1,4 +1,4 @@
-ee27115bc2ae13b6a2a24cbc9ed9e741 *DESCRIPTION
+e8034d85418c85043c3e85aa80cb03de *DESCRIPTION
 eaf14ddd2cae61be5d77cfc11e86f69c *NAMESPACE
 5525bed8eb48c83d1ae6f7f7684a2ec3 *R/Grashof.R
 d21311b1de6474871f7530f8a7d42e05 *R/Ld.R
@@ -21,14 +21,14 @@ eb9dda068132443282670ac6d57d5642 *R/areacone.R
 f97fa377452ec5e01891735de365330f *R/areacylinder.R
 438ca4a034c74778339c0359dad55419 *R/areasphere.R
 2ed37ff871065b135a2c85f505c3754b *R/convertflirJPG.R
-cf53acbe8ae3b6ea4a982751e6964457 *R/convertflirVID.R
+a4e4718b3dd854fda6522121c8b6d19a *R/convertflirVID.R
 04eed571dd65c757b9bff88f6bf6b6ab *R/cumulDiff.R
 26f04ccc50b159ecb9da61475171cf61 *R/diffFrame.R
 2c872fe21d6d2fabc561e275c78822b7 *R/ffmpegcall.R
 0f7e537a42d44f010b831755acfd0644 *R/flip.matrix.R
 13f0667265cfeceeadfe99641f1d4b16 *R/flirsettings.R
 e1b6c6afcf92480158d5126db24e0519 *R/forcedparameters.R
-9e663ac4baa17ff912b2b45fd279ce19 *R/frameLocates.R
+10c96c11f5a5320db37d7605ebfaa6a2 *R/frameLocates.R
 4be9dc3bb91ab1ed4511896d7e9db09a *R/freeparameters.R
 882efc63082704edf41dcff2dcf84d40 *R/getFrames.R
 17c3a64ed81b57049185c534bc570135 *R/getTimes.R
@@ -44,7 +44,7 @@ adb22d8b8f99107e19fed437320bb026 *R/qcond.R
 c1b4f9b999bfcde015be43281e55c7e4 *R/qconv.R
 2e9b89a5902ef816c9fa1942d6b79d97 *R/qrad.R
 a88d9d555ffba1eb7fd3cfec763b5402 *R/raw2temp.R
-0b936ae25069f187f6664c4a05bb1377 *R/readflirJPG.R
+76eb152206fa0cef7be69620f1fa1ca7 *R/readflirJPG.R
 44b55e54b0f5b1b940d4a51e58007bda *R/rotate180.matrix.R
 bfc8eb04c00ffa191e1d66cc27426aaa *R/rotate270.matrix.R
 676831e75cd69e544a9e1afad7347df3 *R/rotate90.matrix.R
@@ -77,7 +77,7 @@ b646e21c3c2a9e43cee33691e9760fc5 *inst/exiftool/raw2temp.sh
 44151b6294d270eb42e46c02c04436b4 *inst/extdata/IR_2412.jpg
 2e1055a6f95ff02e0cfeded13d23c4d7 *inst/extdata/SampleCSQ.csq
 48d9651d6189c927e19831f46ef54913 *inst/extdata/SampleSEQ.seq
-be988fdb74a3d04532a01d8ae3684036 *inst/perl/split.pl
+01d658a4e91ea4f46ea50773aa5aa9bc *inst/perl/split.pl
 aa50e272addca5171003fa3b16d17e50 *inst/perl/split_fff.pl
 519a049477dc350aaf91605996bb3de4 *inst/perl/split_jpegls.pl
 7b73cdcf83a0ad0e5dec424d81e90afb *inst/perl/split_tiff.pl
@@ -102,9 +102,9 @@ d59d8d00c9fa92a35d1a82c238876023 *man/areacone.Rd
 a18c9e9000b1a130d4692254f6d29508 *man/areacylinder.Rd
 fdc2376af4c82f54c699d80fecfa7abf *man/areasphere.Rd
 f55fb232bcbfb07cc6eb9b97a98e365d *man/convertflirJPG.Rd
-8919be9b6c1808ee30205e36d0fe372e *man/convertflirVID.Rd
+21b295a3a4118c175e5ddfdc69d559ff *man/convertflirVID.Rd
 88546a97cd79b9143895b847b5612308 *man/cumulDiff.Rd
-b5d34a996626115cbaad77ab05c6f3fd *man/diffFrame.Rd
+ce24f83c8a500b1f0e3501c07f843ca2 *man/diffFrame.Rd
 f8276365eb7a1c68fc294085a68e98b3 *man/ffmpegcall.Rd
 bd7bd07baa94098d465621df613e3e1a *man/flip.matrix.Rd
 867f673d5502fffb88cacb6e5b023c3e *man/flirpal.Rd
@@ -112,8 +112,8 @@ bd7bd07baa94098d465621df613e3e1a *man/flip.matrix.Rd
 8596920ec0c0b6b266d4fffbea633845 *man/forcedparameters.Rd
 9e4af5db709c85174d1a46a2440deea4 *man/frameLocates.Rd
 de648b5eb6c2ad2696947cc2f5cf7e65 *man/freeparameters.Rd
-135ceff53ffc29f4852224548d067896 *man/getFrames.Rd
-e009ee8863754bd1eac457c8ee92f87a *man/getTimes.Rd
+6f321c3fa5d1cfff8bee2643c858ba42 *man/getFrames.Rd
+751fb271d553a5f1a446f894d316ebba *man/getTimes.Rd
 1fdff5ad42dc10af3facd9e7ed6e1e05 *man/glowbowpal.Rd
 e1ed3949d8ee088d59571900802c91ad *man/grey10pal.Rd
 ee772af9ff1933453ba3d5031c5d3db6 *man/grey120pal.Rd
@@ -147,7 +147,7 @@ dcb1b872b68a9b19adf11653ffc1dad0 *man/samp.image.Rd
 fd2a5df0a79b784eb1e55a67a56778ae *man/slopeEveryN.Rd
 010f03697f4fa152acf0d55a21fd196e *man/slopebypoint.Rd
 91af2e60b82feec372111277e4c576c5 *man/temp2raw.Rd
-dfdba1457a2bf56a46c7f868c1b037d5 *man/thermsum.Rd
+6f0e3052c445fd5ee648ad6420605ef7 *man/thermsum.Rd
 748a95c6fe520b81a214a4c3bacc4aa4 *man/thermsumcent.Rd
 5fed635602944f86f082ad8ac909e37d *man/writeFlirBin.Rd
 ca8c323b8932ecb68402af25b1b6b142 *man/yellowpal.Rd
